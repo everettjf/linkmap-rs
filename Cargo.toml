@@ -1,0 +1,13 @@
+[package]
+name = "linkmap"
+version = "0.1.0"
+edition = "2021"
+description = "🦀️linkmap file parser"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.53"
+symbolic-common = "8.6.0"
+symbolic-demangle = "8.6.0"
